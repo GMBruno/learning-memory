@@ -1,0 +1,62 @@
+
+body{
+    
+    background-image: url("https://img.freepik.com/free-vector/clean-medical-background_53876-97927.jpg?w=1800&t=st=1661026514~exp=1661027114~hmac=de86a6008297427fd44c0d940bacadd151f01525dadf8d303d9c98f1a489eed3");
+}
+
+p{
+    color: seagreen;
+    font-style: bold;
+    text-align: center;
+    font-size: large;
+}
+
+#result{
+    margin-top: 30px;
+    text-align: center;
+    color: seagreen;
+    font-size: large;
+}
+
+.category{
+    margin-top: 30px;
+    text-align: center;
+    color: seagreen;
+    font-size: large;
+}
+
+input{
+    width: 100px;
+    height: 20px;
+    border-radius: 5px;
+    font-size: large;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-bottom: 5px;
+    margin-left: 2px;
+}
+
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    color: seagreen;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    font-size: large;
+    
+}
+
+h1{
+text-align: center;
+color: seagreen;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    background-color: rgb(255, 255, 255);
+    color: seagreen;
+    text-align: center;
+}
